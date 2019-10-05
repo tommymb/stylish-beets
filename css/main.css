@@ -25,6 +25,7 @@ nav {
 
 a:hover {
   color: #222;
+  text-decoration: underline;
 }
 
 main figure figcaption {
@@ -47,4 +48,8 @@ main blockquote cite {
 
 dl dd {
   font-weight: bold;
+}
+
+ol li {
+  list-style-type: lower-latin;
 }
