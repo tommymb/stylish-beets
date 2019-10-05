@@ -5,7 +5,7 @@ html {
 body {
   font-family: "PT Serif";
   line-height: 1.5;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: normal;
 }
 
@@ -23,7 +23,7 @@ nav {
   color: #8f2440;
 }
 
-nav a:hover {
+a:hover {
   color: #222;
 }
 
@@ -42,7 +42,7 @@ main blockquote {
 }
 
 main blockquote cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 dl dd {
