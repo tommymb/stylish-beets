@@ -43,5 +43,8 @@ main blockquote {
 
 main blockquote cite {
   font-size: 0.8rem;
+}
 
+dl dd {
+  font-weight: bold;
 }
