@@ -38,12 +38,12 @@ main + p {
   font-size: 1.125rem;
 }
 
-.pratt {
+main blockquote {
   font-style: italic;
   font-size: 1.5rem;
 }
 
-main blockquote cite {
+.pratt {
   font-size: .8rem;
 }
 
