@@ -12,3 +12,10 @@ h1, h2 {
   font-size: 1.5rem;
   color: #3f1622;
 }
+
+nav {
+  font-family: "PT Sans";
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
