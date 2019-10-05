@@ -51,7 +51,7 @@ dl dd {
   font-weight: bold;
 }
 
-ol li {
+main ol li {
   list-style-type: lower-greek;
 }
 
