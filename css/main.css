@@ -56,9 +56,10 @@ main ol li {
 }
 
 img {
-  width: 75%;
+  width: 40%;
 }
 
 a {
+  text-decoration: underline;
   color: #8f2440;
 }
