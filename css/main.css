@@ -24,9 +24,19 @@ nav {
 }
 
 nav a:hover {
-  color: #222
+  color: #222;
 }
 
-main figure figcaption {
+main figure img figcaption {
   font-style: italic;
+}
+
+main + p {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+main blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
 }
