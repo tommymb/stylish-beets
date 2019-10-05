@@ -54,3 +54,11 @@ dl dd {
 ol li {
   list-style-type: lower-greek;
 }
+
+img {
+  width: 50%;
+}
+
+footer a {
+  color: #8f2440;
+}
