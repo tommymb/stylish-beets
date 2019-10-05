@@ -3,21 +3,21 @@ html {
 }
 
 body {
-  font-family: "PT Serif";
+  font-family: "PT+Serif";
   line-height: 1.5;
   font-size: .8rem;
   font-weight: normal;
 }
 
 h1, h2 {
-  font-family: "PT Sans";
+  font-family: "PT+Sans";
   font-weight: bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
 
 nav {
-  font-family: "PT Sans";
+  font-family: "PT+Sans";
   font-weight: bold;
   font-size: 1.125rem;
   color: #8f2440;
