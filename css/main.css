@@ -1,5 +1,8 @@
-body {
+html {
   background-color: #c9b5ab;
+}
+
+body {
   font-family: "PT Serif";
   line-height: 1.5;
   font-size: 0.8rem;
@@ -18,4 +21,8 @@ nav {
   font-weight: bold;
   font-size: 1.125rem;
   color: #8f2440;
+}
+
+main figure figcaption {
+  font-style: italic;
 }
